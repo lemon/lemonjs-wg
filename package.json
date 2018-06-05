@@ -1,0 +1,11 @@
+{
+  "name": "lemonjs-wg",
+  "version": "1.0.0",
+  "description": "webgradients library for lemon",
+  "license": "MIT",
+  "main": "main.coffee",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lemon/lemonjs-wg"
+  }
+}
